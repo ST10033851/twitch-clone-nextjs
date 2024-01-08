@@ -1,5 +1,5 @@
 import { Actions } from "./Actions"
-import { Search } from "./Search"
+import { Search } from "./search"
 import { Logo } from "./logo"
 
 export const Navbar = () =>{
